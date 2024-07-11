@@ -60,5 +60,5 @@ Supported datasets:
 
 Datasets mentioned above will be downloaded automatically using PyG's API when running the code.
 
-Gradformer is built using [PyG](https://www.pyg.org/) and [GraphCL](https://github.com/Shen-Lab/GraphCL/tree/master). 
+DC-GCL is built using [PyG](https://www.pyg.org/) and [GraphCL](https://github.com/Shen-Lab/GraphCL/tree/master). 
 
